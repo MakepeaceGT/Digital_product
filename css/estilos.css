@@ -110,7 +110,10 @@ nav li a:hover{
 
 .comments{
   display: flex;
+}
+.title_comments{
   text-align: center;
+  font-size: 20px;
 }
 
 .comment{

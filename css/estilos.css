@@ -62,7 +62,7 @@ nav li a:hover{
 }
 .products{
   background-image: url("../images/fondo.png");
-  height: 200px;
+  height: 50%;
   background-size: cover;
   background-position: center top;
   padding: 15%;
@@ -78,6 +78,7 @@ nav li a:hover{
   background-color: white;
   padding: 15px;
   box-shadow: var(--box);
+
 }
 
 .img_content{
@@ -99,9 +100,9 @@ nav li a:hover{
 .main_button:hover{
   background-color: #5e9e22;
 }
-.characters{
+/* .characters{
   display: flex;
-}
+} */
 .character{
   text-align: center;
   padding: 5%;
@@ -109,6 +110,7 @@ nav li a:hover{
 
 .comments{
   display: flex;
+  text-align: center;
 }
 
 .comment{

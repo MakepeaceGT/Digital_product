@@ -62,11 +62,12 @@ nav li a:hover{
 }
 .products{
   background-image: url("../images/fondo.png");
-  height: 50%;
+  height: 240%;
   background-size: cover;
   background-position: center top;
   padding: 15%;
   display: flex;
+  justify-content: center;
 }
 
 .product{

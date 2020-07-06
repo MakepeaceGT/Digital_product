@@ -158,3 +158,7 @@ footer{
 .contact a{
   color: var(--green-color);
 }
+
+.terms a{
+  color: var(--white-color);
+}
